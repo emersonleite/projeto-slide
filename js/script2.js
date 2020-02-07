@@ -1,5 +1,7 @@
-import Slide from './slide.js';
+import Slide from './slide2.js';
 
 const slide = new Slide('.slide', '.slide-wrapper');
-slide.init();
+
 console.log(slide);
+
+slide.init();
